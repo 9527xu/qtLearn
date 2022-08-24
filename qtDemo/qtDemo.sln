@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32630.194
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "FrmBase64Helper", "FrmBase64Helper\FrmBase64Helper.vcxproj", "{519425EB-9739-463D-A4A4-CABFF10F3690}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Nettool", "Nettool\Nettool.vcxproj", "{64130DEA-DC90-4B3E-A1CE-1E68E7A8493D}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "PangTool", "PangTool\PangTool.vcxproj", "{B5DB39EE-C29E-45F2-BD73-B122834B6631}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{519425EB-9739-463D-A4A4-CABFF10F3690}.Debug|x64.ActiveCfg = Debug|x64
+		{519425EB-9739-463D-A4A4-CABFF10F3690}.Debug|x64.Build.0 = Debug|x64
+		{519425EB-9739-463D-A4A4-CABFF10F3690}.Release|x64.ActiveCfg = Release|x64
+		{519425EB-9739-463D-A4A4-CABFF10F3690}.Release|x64.Build.0 = Release|x64
+		{64130DEA-DC90-4B3E-A1CE-1E68E7A8493D}.Debug|x64.ActiveCfg = Debug|x64
+		{64130DEA-DC90-4B3E-A1CE-1E68E7A8493D}.Debug|x64.Build.0 = Debug|x64
+		{64130DEA-DC90-4B3E-A1CE-1E68E7A8493D}.Release|x64.ActiveCfg = Release|x64
+		{64130DEA-DC90-4B3E-A1CE-1E68E7A8493D}.Release|x64.Build.0 = Release|x64
+		{B5DB39EE-C29E-45F2-BD73-B122834B6631}.Debug|x64.ActiveCfg = Debug|x64
+		{B5DB39EE-C29E-45F2-BD73-B122834B6631}.Debug|x64.Build.0 = Debug|x64
+		{B5DB39EE-C29E-45F2-BD73-B122834B6631}.Release|x64.ActiveCfg = Release|x64
+		{B5DB39EE-C29E-45F2-BD73-B122834B6631}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7861BBFA-C551-4235-A0BA-19FBD205CF1F}
+	EndGlobalSection
+EndGlobal

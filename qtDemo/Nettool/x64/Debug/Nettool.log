@@ -1,0 +1,5 @@
+﻿  moc FrmUdpClient.h
+  FrmUdpClient.cpp
+  main.cpp
+  moc_FrmUdpClient.cpp
+  Nettool.vcxproj -> D:\qtDemo\qtDemo\x64\Debug\Nettool.exe

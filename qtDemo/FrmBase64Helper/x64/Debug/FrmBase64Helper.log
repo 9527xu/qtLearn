@@ -1,0 +1,5 @@
+﻿  moc FrmBase64Helper.h
+  FrmBase64Helper.cpp
+  main.cpp
+  moc_FrmBase64Helper.cpp
+  FrmBase64Helper.vcxproj -> D:\qtDemo\qtDemo\x64\Debug\FrmBase64Helper.exe
